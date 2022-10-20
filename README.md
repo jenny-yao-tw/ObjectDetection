@@ -6,3 +6,5 @@ Example of extracting buffer from a video file, adding object detection and expo
 # Credit
 https://github.com/hollance/coreml-survival-guide/tree/master/MobileNetV2%2BSSDLite/ObjectDetection
 https://github.com/intel-iot-devkit/sample-videos
+
+# Test
